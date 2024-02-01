@@ -26,7 +26,13 @@ Sebelum Anda memulai, pastikan Anda telah memenuhi persyaratan berikut:
 3. Install dependensi menggunakan npm:
 
    ```bash
-   npm install  / yarn i
+   npm install
+   ```
+
+4. Jika anda menggunakan yarn, Install dependensi menggunakan :
+
+   ```bash
+    yarn i
    ```
 
 ## Penggunaan
@@ -34,9 +40,19 @@ Sebelum Anda memulai, pastikan Anda telah memenuhi persyaratan berikut:
 Untuk menjalankan proyek secara lokal, gunakan perintah:
 
 ```bash
-npm start / yarn start
+npm start
+```
+
+Atau bisa menggunakan
+
+```bash
+yarn start
+```
 
 ## Mengatasi Error API
+
 Ganti port react js pada file package.json baris ke 23
+
+```bash
 example : "start": "PORT=3004 <- silahkan diganti port lain react-scripts start",
 ```
