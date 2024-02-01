@@ -1,0 +1,10 @@
+[
+  { "nama_barang": "Laptop", "harga": 1200000 },
+  { "nama_barang": "Smartphone", "harga": 800000 },
+  { "nama_barang": "TV", "harga": 600000 },
+  { "nama_barang": "Kamera", "harga": 500000 },
+  { "nama_barang": "Headset", "harga": 100000 },
+  { "nama_barang": "Mouse", "harga": 50000 },
+  { "nama_barang": "Keyboard", "harga": 70000 },
+  { "nama_barang": "Printer", "harga": 200000 }
+]
