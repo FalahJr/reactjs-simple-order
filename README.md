@@ -14,7 +14,7 @@ Sebelum Anda memulai, pastikan Anda telah memenuhi persyaratan berikut:
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/username/nama-proyek.git
+   git clone https://github.com/FalahJr/reactjs-simple-order.git
    ```
 
 2. Pindah ke direktori proyek:
